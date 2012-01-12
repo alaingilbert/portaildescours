@@ -1,0 +1,11 @@
+{
+   "name": "Chrome User-Agent",
+   "version": "0.1.0",
+   "background_page": "background.html",
+   "permissions": [
+      "webRequest",
+      "<all_urls>",
+      "tabs",
+      "experimental"
+   ]
+}
