@@ -1,7 +1,8 @@
 # User-Agent switcher
 
-- Download the extension
+- Download/unzip the extension
 - Open Google chrome, `Cmd L`, `about:flags` Enable `Experimental Extension APIs`
+- Restart Google chrome
 - `Cmd L`, `chrome://extensions`, load the extension.
   - Check the `Developer mode` checkbox
   - Click on `Load unpacked extension...`
