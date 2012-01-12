@@ -3,9 +3,8 @@
    "version": "0.1.0",
    "background_page": "background.html",
    "permissions": [
+      "experimental",
       "webRequest",
-      "<all_urls>",
-      "tabs",
-      "experimental"
+      "https://www.portaildescours.ulaval.ca/"
    ]
 }
